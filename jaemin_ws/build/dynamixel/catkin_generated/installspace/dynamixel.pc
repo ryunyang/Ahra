@@ -1,0 +1,8 @@
+prefix=/home/ryu/jaemin_ws/install
+
+Name: dynamixel
+Description: Description of dynamixel
+Version: 0.0.0
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib -ldynamixel_current_2port /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+Requires: dynamixel_sdk dynamixel_workbench_msgs roscpp std_msgs sensor_msgs geometry_msgs

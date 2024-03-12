@@ -1,0 +1,2 @@
+dynamixel
+-DCATKIN_WHITELIST_PACKAGES= -DCATKIN_DEVEL_PREFIX=/home/ryu/jaemin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ryu/jaemin_ws/install -G Unix Makefiles
