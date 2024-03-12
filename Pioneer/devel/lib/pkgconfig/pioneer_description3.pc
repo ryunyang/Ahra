@@ -1,0 +1,8 @@
+prefix=/home/ryu/Pioneer/devel
+
+Name: pioneer_description3
+Description: Description of pioneer_description3
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
