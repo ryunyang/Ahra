@@ -1,8 +1,0 @@
-prefix=/home/ryu/Pioneer/install
-
-Name: pioneer
-Description: Description of pioneer
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: roscpp rospy gazebo_ros gazebo_ros_control

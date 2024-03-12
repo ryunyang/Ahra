@@ -1,2 +1,0 @@
-pioneer:pioneer_description3
--DCATKIN_WHITELIST_PACKAGES= -DCATKIN_DEVEL_PREFIX=/home/ryu/Pioneer/devel -DCMAKE_INSTALL_PREFIX=/home/ryu/Pioneer/install -G Unix Makefiles
